@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1665373045 source:d:\quang\dai hoc cong nghe\nam 2\dsa\nqueens\main.cpp
+	<iostream>
+	"queen.h"
+
+1666170662 source:d:\quang\dai hoc cong nghe\nam 2\dsa\nqueens\queen.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	"queen.h"
+
+1666170133 d:\quang\dai hoc cong nghe\nam 2\dsa\nqueens\queen.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	<string>
+
